@@ -1,1 +1,1 @@
-branch1 file content
+branch1 file updated content
